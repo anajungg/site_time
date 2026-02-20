@@ -44,23 +44,23 @@ width: 250px;
 height: 190px;
 
 }
+
 #escalacao {
 display: flex;
 text-align: center;
-justify-content: space-around;
+justify-content: space-between;
 padding: 6px;
 border-radius: 15px;
 background-color: bisque;
 align-items: center;
-display: block;
-unicode-bidi: isolate;
+display: flex;
 flex-wrap: wrap;
 }
 
 .escalacoes{
 display: flex;
 align-items: center;
-flex-wrap: wrap;
+
 
 }   
 .img_escalacoes {
