@@ -3,3 +3,13 @@
     height: 62px;
 
 }
+#navbar {
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+    background-color: blanchedalmond;
+    color: rgb(126, 15, 15);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
